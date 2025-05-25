@@ -67,7 +67,8 @@ O projeto foi estruturado seguindo uma arquitetura modular com separação clara
 ### Objetivo
 Derrotar o adversário reduzindo a sua barra de vida a zero através de ataques estratégicos.
 
-
+### Créditos
+Sprites: https://luizmelo.itch.io/
 
 ## Requisitos do Sistema
 
