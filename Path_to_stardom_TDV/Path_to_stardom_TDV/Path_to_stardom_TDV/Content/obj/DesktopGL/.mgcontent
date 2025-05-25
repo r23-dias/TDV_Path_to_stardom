@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0000_9.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0001_8.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0002_7.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0003_6.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0004_Lights.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0005_5.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0006_4.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0007_Lights.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0008_3.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0009_2.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0010_1.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/Background1/Layer_0011_0.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/FWarrior/FWarriorAttack1.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/FWarrior/FWarriorAttack2.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/FWarrior/FWarriorAttack3.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/FWarrior/FWarriorIdle.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/FWarrior/FWarriorWalk.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/MKing/MKingAttack1.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/MKing/MKingAttack2.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/MKing/MKingAttack3.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/MKing/MKingIdle.png</File>
+    <File>C:/Users/jotam/Documents/GitHub/TDV_Path_to_stardom/Path_to_stardom_TDV/Path_to_stardom_TDV/Path_to_stardom_TDV/Content/MKing/MKingWalk.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

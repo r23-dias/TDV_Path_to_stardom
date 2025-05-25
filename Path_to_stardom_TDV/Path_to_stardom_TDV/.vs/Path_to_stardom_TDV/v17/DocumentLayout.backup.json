@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|c:\\users\\jotam\\documents\\github\\tdv_path_to_stardom\\path_to_stardom_tdv\\path_to_stardom_tdv\\path_to_stardom_tdv\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|solutionrelative:path_to_stardom_tdv\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|c:\\users\\jotam\\documents\\github\\tdv_path_to_stardom\\path_to_stardom_tdv\\path_to_stardom_tdv\\path_to_stardom_tdv\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|solutionrelative:path_to_stardom_tdv\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|c:\\users\\jotam\\documents\\github\\tdv_path_to_stardom\\path_to_stardom_tdv\\path_to_stardom_tdv\\path_to_stardom_tdv\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|solutionrelative:path_to_stardom_tdv\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|c:\\users\\jotam\\documents\\github\\tdv_path_to_stardom\\path_to_stardom_tdv\\path_to_stardom_tdv\\path_to_stardom_tdv\\staticbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|solutionrelative:path_to_stardom_tdv\\staticbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|c:\\users\\jotam\\documents\\github\\tdv_path_to_stardom\\path_to_stardom_tdv\\path_to_stardom_tdv\\path_to_stardom_tdv\\menusystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|solutionrelative:path_to_stardom_tdv\\menusystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|c:\\users\\jotam\\documents\\github\\tdv_path_to_stardom\\path_to_stardom_tdv\\path_to_stardom_tdv\\path_to_stardom_tdv\\bitmapfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|solutionrelative:path_to_stardom_tdv\\bitmapfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|c:\\users\\jotam\\documents\\github\\tdv_path_to_stardom\\path_to_stardom_tdv\\path_to_stardom_tdv\\path_to_stardom_tdv\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B92665-54C7-453E-B17C-51234CB9AE40}|Path_to_stardom_TDV\\Path_to_stardom_TDV.csproj|solutionrelative:path_to_stardom_tdv\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BitmapFont.cs",
+              "DocumentMoniker": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\BitmapFont.cs",
+              "RelativeDocumentMoniker": "Path_to_stardom_TDV\\BitmapFont.cs",
+              "ToolTip": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\BitmapFont.cs",
+              "RelativeToolTip": "Path_to_stardom_TDV\\BitmapFont.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:47:29.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuSystem.cs",
+              "DocumentMoniker": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\MenuSystem.cs",
+              "RelativeDocumentMoniker": "Path_to_stardom_TDV\\MenuSystem.cs",
+              "ToolTip": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\MenuSystem.cs",
+              "RelativeToolTip": "Path_to_stardom_TDV\\MenuSystem.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:46:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Camera.cs",
+              "RelativeDocumentMoniker": "Path_to_stardom_TDV\\Camera.cs",
+              "ToolTip": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Camera.cs",
+              "RelativeToolTip": "Path_to_stardom_TDV\\Camera.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:45:27.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaticBackground.cs",
+              "DocumentMoniker": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\StaticBackground.cs",
+              "RelativeDocumentMoniker": "Path_to_stardom_TDV\\StaticBackground.cs",
+              "ToolTip": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\StaticBackground.cs",
+              "RelativeToolTip": "Path_to_stardom_TDV\\StaticBackground.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:43:26.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fighter.cs",
+              "DocumentMoniker": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Fighter.cs",
+              "RelativeDocumentMoniker": "Path_to_stardom_TDV\\Fighter.cs",
+              "ToolTip": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Fighter.cs*",
+              "RelativeToolTip": "Path_to_stardom_TDV\\Fighter.cs*",
+              "ViewState": "AgIAANkAAAAAAAAAAAAmwOwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:28:09.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Animation.cs",
+              "RelativeDocumentMoniker": "Path_to_stardom_TDV\\Animation.cs",
+              "ToolTip": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Animation.cs",
+              "RelativeToolTip": "Path_to_stardom_TDV\\Animation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:25:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Game1.cs",
+              "RelativeDocumentMoniker": "Path_to_stardom_TDV\\Game1.cs",
+              "ToolTip": "C:\\Users\\jotam\\Documents\\GitHub\\TDV_Path_to_stardom\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Path_to_stardom_TDV\\Game1.cs",
+              "RelativeToolTip": "Path_to_stardom_TDV\\Game1.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAQwAQBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:54:03.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
