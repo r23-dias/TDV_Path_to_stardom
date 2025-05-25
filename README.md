@@ -1,10 +1,11 @@
 # Path to Stardom TDV
 
 ## Identificação do Grupo
+
+- [João Miguel dos Santos Veloso] - [31492]
 - [Nuno Gonçalves Soares ] - [33220]
-- [João Miguel dos Santos Veloso] - []
 - [Rodrigo Vieira Dias] - [31081]
-- 
+  
 ## Descrição do Projeto
 
 Path to Stardom TDV é um jogo de luta 2D desenvolvido em C# utilizando o framework MonoGame em Microsoft Visual Studio 2022. O jogo apresenta combates entre dois lutadores com sistema de vida, controlos responsivos e interface gráfica personalizada. 
